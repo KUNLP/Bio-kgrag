@@ -162,9 +162,7 @@ This implementation is based on the paper:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
 
-[Specify your license here]
 
 ## 🙏 Acknowledgments
 
@@ -172,7 +170,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - PubMed for literature retrieval
 - OpenAI for language models
 
-## 📧 Contact
-
-[Your contact information]
 
