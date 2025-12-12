@@ -157,11 +157,6 @@ The framework evaluates QA pairs on:
 This implementation is based on the paper:
 > "A Biomedical Benchmark for Large Language Models with Knowledge Graphs and Retrieval-Augmented Generation"
 
-### Key Results
-- **Average Quality Score**: 95.98%
-- **Question Naturalness**: 99.48%
-- **Answer Appropriateness**: 92.21%
-- **Comparison with PcQA**: 4.2%p higher performance
 
 ## 🤝 Contributing
 
