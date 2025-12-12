@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files (generated results)
+outputs/
+*.json
+!data/synlethdb/schema.json
+
+# Data files (too large for git)
+data/synlethdb/*.csv
+data/*.csv
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
